@@ -1,0 +1,1 @@
+const findSmallestInt = arr => Math.min(...arr);
